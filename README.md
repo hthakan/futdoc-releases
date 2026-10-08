@@ -1,7 +1,6 @@
 # FutDoc sürümleri
 
-Bu depo yalnızca FutDoc'un kurulum paketlerini ve güncelleme manifestini barındırır. Kaynak kod burada değildir.
-
+Bu depo yalnızca FutDoc'un kurulum paketlerini ve güncelleme manifestini barındırır.
 - **Kurulum:** [Releases](../../releases/latest) sayfasından işletim sisteminize uygun dosyayı indirin (Windows: `FutDoc_<sürüm>_x64-setup.exe`, macOS: `FutDoc_<sürüm>_aarch64.dmg`).
 - **Güncelleme:** kurulu FutDoc yeni sürümü kendisi bulur (`latest.json`) ve indirdiği paketin imzasını, içine gömülü açık anahtarla doğrulamadan kurmaz.
 
